@@ -1,1 +1,0 @@
-df.to_sql('TATAMOTORS.NS', connection, if_exists='replace')
